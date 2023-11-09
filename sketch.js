@@ -1,4 +1,4 @@
-// Globals xxx
+// Globals xxxx
 let classifier;
 let img;
 
